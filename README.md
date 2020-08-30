@@ -6,7 +6,7 @@ I am planning improving my data science skills, as well as my machine learning s
 data science techniques to observe the dataset and understand more about it before
 just using an ML algorithm.  
 
-After this, I am planning on building out 4 ML models: Multiple Linear Regression,
+After this, I am planning on building out 4 ML models: Logistic Regression,
  Decision Trees, SVM, and Neural Network to see how each model compares to one another. I'll specifically be working on my feature engineering and hyperparameter tuning skills to further improve my machine learning engineering skills!  
 
  ## Requirements
