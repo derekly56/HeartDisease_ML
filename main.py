@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 from sklearn.model_selection import train_test_split
-from ml_models.logistic_regression.logistic_regression import LogisticRegression
+from ml_models.logistic_regression import LogisticRegression
 
 import warnings
 warnings.filterwarnings('error')
