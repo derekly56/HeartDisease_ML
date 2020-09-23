@@ -1,10 +1,10 @@
 import numpy as np
 import pandas as pd
+import warnings
 
 from sklearn.model_selection import train_test_split
 from ml_models.logistic_regression import LogisticRegression
 
-import warnings
 warnings.filterwarnings('error')
 
 def load_dataset(path):
